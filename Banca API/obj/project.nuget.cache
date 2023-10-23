@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "DDb576ozQZAbEa/z1H+Fq1mRxkGqMv4bXu5pEgrX4ZfrUNNec5ILOcoOg4COt3ETjLPGKwF8Dj5uw3i9vAPziQ==",
+  "success": true,
+  "projectFilePath": "D:\\Archivos\\Proyectos Visual Studio\\Proyecto tesis Unemi Joel Nando\\AprendeBanca\\Banca API\\Banca API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alex9\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\alex9\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\alex9\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\alex9\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\alex9\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\alex9\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

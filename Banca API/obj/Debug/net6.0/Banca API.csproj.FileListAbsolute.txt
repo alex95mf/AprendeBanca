@@ -1,0 +1,32 @@
+D:\Archivos\Proyectos Visual Studio\Proyecto tesis Unemi Joel Nando\AprendeBanca\Banca API\bin\Debug\net6.0\appsettings.Development.json
+D:\Archivos\Proyectos Visual Studio\Proyecto tesis Unemi Joel Nando\AprendeBanca\Banca API\bin\Debug\net6.0\appsettings.json
+D:\Archivos\Proyectos Visual Studio\Proyecto tesis Unemi Joel Nando\AprendeBanca\Banca API\bin\Debug\net6.0\Banca API.exe
+D:\Archivos\Proyectos Visual Studio\Proyecto tesis Unemi Joel Nando\AprendeBanca\Banca API\bin\Debug\net6.0\Banca API.deps.json
+D:\Archivos\Proyectos Visual Studio\Proyecto tesis Unemi Joel Nando\AprendeBanca\Banca API\bin\Debug\net6.0\Banca API.runtimeconfig.json
+D:\Archivos\Proyectos Visual Studio\Proyecto tesis Unemi Joel Nando\AprendeBanca\Banca API\bin\Debug\net6.0\Banca API.dll
+D:\Archivos\Proyectos Visual Studio\Proyecto tesis Unemi Joel Nando\AprendeBanca\Banca API\bin\Debug\net6.0\Banca API.pdb
+D:\Archivos\Proyectos Visual Studio\Proyecto tesis Unemi Joel Nando\AprendeBanca\Banca API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Archivos\Proyectos Visual Studio\Proyecto tesis Unemi Joel Nando\AprendeBanca\Banca API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Archivos\Proyectos Visual Studio\Proyecto tesis Unemi Joel Nando\AprendeBanca\Banca API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Archivos\Proyectos Visual Studio\Proyecto tesis Unemi Joel Nando\AprendeBanca\Banca API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Archivos\Proyectos Visual Studio\Proyecto tesis Unemi Joel Nando\AprendeBanca\Banca API\obj\Debug\net6.0\Banca API.csproj.AssemblyReference.cache
+D:\Archivos\Proyectos Visual Studio\Proyecto tesis Unemi Joel Nando\AprendeBanca\Banca API\obj\Debug\net6.0\Banca API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos\Proyectos Visual Studio\Proyecto tesis Unemi Joel Nando\AprendeBanca\Banca API\obj\Debug\net6.0\Banca API.AssemblyInfoInputs.cache
+D:\Archivos\Proyectos Visual Studio\Proyecto tesis Unemi Joel Nando\AprendeBanca\Banca API\obj\Debug\net6.0\Banca API.AssemblyInfo.cs
+D:\Archivos\Proyectos Visual Studio\Proyecto tesis Unemi Joel Nando\AprendeBanca\Banca API\obj\Debug\net6.0\Banca API.csproj.CoreCompileInputs.cache
+D:\Archivos\Proyectos Visual Studio\Proyecto tesis Unemi Joel Nando\AprendeBanca\Banca API\obj\Debug\net6.0\Banca API.MvcApplicationPartsAssemblyInfo.cs
+D:\Archivos\Proyectos Visual Studio\Proyecto tesis Unemi Joel Nando\AprendeBanca\Banca API\obj\Debug\net6.0\Banca API.MvcApplicationPartsAssemblyInfo.cache
+D:\Archivos\Proyectos Visual Studio\Proyecto tesis Unemi Joel Nando\AprendeBanca\Banca API\obj\Debug\net6.0\staticwebassets\msbuild.Banca API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Archivos\Proyectos Visual Studio\Proyecto tesis Unemi Joel Nando\AprendeBanca\Banca API\obj\Debug\net6.0\staticwebassets\msbuild.build.Banca API.props
+D:\Archivos\Proyectos Visual Studio\Proyecto tesis Unemi Joel Nando\AprendeBanca\Banca API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Banca API.props
+D:\Archivos\Proyectos Visual Studio\Proyecto tesis Unemi Joel Nando\AprendeBanca\Banca API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Banca API.props
+D:\Archivos\Proyectos Visual Studio\Proyecto tesis Unemi Joel Nando\AprendeBanca\Banca API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Archivos\Proyectos Visual Studio\Proyecto tesis Unemi Joel Nando\AprendeBanca\Banca API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Archivos\Proyectos Visual Studio\Proyecto tesis Unemi Joel Nando\AprendeBanca\Banca API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Archivos\Proyectos Visual Studio\Proyecto tesis Unemi Joel Nando\AprendeBanca\Banca API\obj\Debug\net6.0\scopedcss\bundle\Banca API.styles.css
+D:\Archivos\Proyectos Visual Studio\Proyecto tesis Unemi Joel Nando\AprendeBanca\Banca API\obj\Debug\net6.0\Banca API.csproj.CopyComplete
+D:\Archivos\Proyectos Visual Studio\Proyecto tesis Unemi Joel Nando\AprendeBanca\Banca API\obj\Debug\net6.0\Banca API.dll
+D:\Archivos\Proyectos Visual Studio\Proyecto tesis Unemi Joel Nando\AprendeBanca\Banca API\obj\Debug\net6.0\refint\Banca API.dll
+D:\Archivos\Proyectos Visual Studio\Proyecto tesis Unemi Joel Nando\AprendeBanca\Banca API\obj\Debug\net6.0\Banca API.pdb
+D:\Archivos\Proyectos Visual Studio\Proyecto tesis Unemi Joel Nando\AprendeBanca\Banca API\obj\Debug\net6.0\Banca API.genruntimeconfig.cache
+D:\Archivos\Proyectos Visual Studio\Proyecto tesis Unemi Joel Nando\AprendeBanca\Banca API\obj\Debug\net6.0\ref\Banca API.dll
