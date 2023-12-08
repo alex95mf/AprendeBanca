@@ -1,0 +1,383 @@
+# Carpeta de salida de compilación
+bin/
+obj/
+
+# Carpeta de módulos temporales creados por Visual Studio
+Project_Readme.html
+[Tt]humbs.db
+[Bb]in
+[Ll]og/
+[Ll]ogs/
+
+# Carpeta de archivos temporales creados por Visual Studio
+[Vv]isual[Ss]tudio2019/
+.vs2019/
+_UpgradeReport_Files/
+backup*/
+UpgradeLog*.XML
+
+# Carpeta de publicación
+_PublishedWebsites/
+pubxml.*
+
+# Archivos de usuario
+*.bak
+*.user
+*.suo
+*.cache
+*.vspscc
+*.vsp
+*.suo
+*.user
+
+# Carpeta de respaldo
+Backup*/
+Backup*/
+*.bak
+*.backup
+*.back
+*.swp
+*.dbmdl
+*.log
+*.cache
+[Tt]emp/
+[Oo]bj/
+[Ii]ntermediate/
+[Ss]tyle[Cc]op.*
+~$*
+
+# Carpetas de Node.js
+node_modules/
+jspm_packages/
+
+# NPM Debug Log
+npm-debug.log
+
+# Carpeta bower
+bower_components/
+
+# Carpeta de salida de TypeScript
+typings/
+
+# Carpeta de salida de DotNet
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Ll]og/
+[Ll]ogs/
+[Ll]og.*/
+[Ll]ogs.*/
+test-results/
+[Tt]est[Rr]esults/
+[Bb]uild[Ll]og.*
+[Bb]uild[Ll]ogs.*
+[Aa][Rr][Tt]ifacts/
+[Ll]ib/
+[Ll]ibrary/
+[Ll]ibraries/
+
+# Carpeta nuget
+packages/
+
+# Carpeta de idioma
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Ll]og/
+[Ll]ogs/
+[Ll]og.*/
+[Ll]ogs.*/
+test-results/
+[Tt]est[Rr]esults/
+[Bb]uild[Ll]og.*
+[Bb]uild[Ll]ogs.*
+[Aa][Rr][Tt]ifacts/
+[Ll]ib/
+[Ll]ibrary/
+[Ll]ibraries/
+
+# Carpeta nuget
+packages/
+
+# Archivos y carpetas específicos de Visual Studio
+*.suo
+*.user
+*.userosscache
+*.suo
+*.suo
+*.iuser
+*.iuserosscache
+*.userosscache
+*.suo
+*.suo
+*.suo
+*.suo
+*. suo
+*. suo
+*. suo
+*. suo
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.suo
+*.user
+*.suo
+*.suo
+*.suo
+*.suo
+*. suo
+*. suo
+*. suo
+*. suo
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.suo
+*.user
+*.suo
+*.suo
+*.suo
+*.suo
+*. suo
+*. suo
+*. suo
+*. suo
+
+# Rider
+.idea/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.suo
+*.user
+*.suo
+*.suo
+*.suo
+*.suo
+*. suo
+*. suo
+*. suo
+*. suo
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.suo
+*.user
+*.suo
+*.suo
+*.suo
+*.suo
+*. suo
+*. suo
+*. suo
+*. suo
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+*.lnk
+*.lnk
+
+# JetBrains Rider
+.idea/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.suo
+*.user
+*.suo
+*.suo
+*.suo
+*.suo
+*. suo
+*. suo
+*. suo
+*. suo
+
+# Rider
+.idea/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.suo
+*.user
+*.suo
+*.suo
+*.suo
+*.suo
+*. suo
+*. suo
+*. suo
+*. suo
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.suo
+*.user
+*.suo
+*.suo
+*.suo
+*.suo
+*. suo
+*. suo
+*. suo
+*. suo
+
+# Rider
+.idea/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.suo
+*.user
+*.suo
+*.suo
+*.suo
+*.suo
+*. suo
+*. suo
+*. suo
+*. suo
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.suo
+*.user
+*.suo
+*.suo
+*.suo
+*.suo
+*. suo
+*. suo
+*. suo
+*. suo
+
+# Rider
+.idea/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.suo
+*.user
+*.suo
+*.suo
+*.suo
+*.suo
+*. suo
+*. suo
+*. suo
+*. suo
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.suo
+*.user
+*.suo
+*.suo
+*.suo
+*.suo
+*. suo
+*. suo
+*. suo
+*. suo
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.suo
+*.user
+*.suo
+*.suo
+*.suo
+*.suo
+*. suo
+*. suo
+*. suo
+*. suo
+
+# User-specific files
+*.rsuser
+*.suo
+*.
