@@ -2,6 +2,8 @@
 bin/
 obj/
 
+Banca APP/.vs/
+
 # Carpeta de módulos temporales creados por Visual Studio
 Project_Readme.html
 [Tt]humbs.db
