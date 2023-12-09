@@ -1,3 +1,83 @@
-﻿<div>
+﻿@page
+@model Banca_APP.Models.PlanCuentasViewModel
+
+<div>
     <h1>Plan de Cuentas</h1>
+
+    <button id="btnObtenerPlanes" class="btn btn-primary">Obtener Planes de Cuenta</button>
+
+    <table id="tablaPlanes" class="table table-striped table-bordered">
+        <thead class="thead-dark">
+            <tr>
+                <th>ID</th>
+                <th>GenempId</th>
+                <th>GenanioId</th>
+                <th>ConCtanivId</th>
+                <th>ConCtatipId</th>
+                <th>ConCtaclsId</th>
+                <th>ConCtaplaCuenta</th>
+                <th>ConCtaplaNombre</th>
+                <th>ConCtaplaReqCcSn</th>
+                <th>ConCtaplaEstado</th>
+                <th>AudUsuarioIngreso</th>
+                <th>AudFechaIngreso</th>
+                <th>AudPcIngreso</th>
+                <th>AudUsuarioModifica</th>
+                <th>AudFechaModifica</th>
+                <th>AudPcModifica</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
 </div>
+
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+
+<script>
+    $(document).ready(function () {
+        $('#btnObtenerPlanes').click(function () {
+            console.log("Botón presionado")
+            $.ajax({
+                type: 'GET',
+                url: '@Url.Action("ObtenerPlanesDeCuenta", "Servicios")',
+                contentType: 'application/json',
+                success: function (data) {
+                    // Limpiar la tabla antes de agregar nuevos datos
+                    $('#tablaPlanes tbody').empty();
+
+                    // Verificar si hay datos
+                    if (data && data.length > 0) {
+                        // Agregar datos a la tabla
+                        $.each(data, function (index, plan) {
+                            var fila = '<tr><td>' + plan.conCtaplaId + '</td>' +
+                                '<td>' + plan.genempId + '</td>' +
+                                '<td>' + plan.genanioId + '</td>' +
+                                '<td>' + plan.conCtanivId + '</td>' +
+                                '<td>' + plan.conCtatipId + '</td>' +
+                                '<td>' + plan.conCtaclsId + '</td>' +
+                                '<td>' + plan.conCtaplaCuenta + '</td>' +
+                                '<td>' + plan.conCtaplaNombre + '</td>' +
+                                '<td>' + plan.conCtaplaReqCcSn + '</td>' +
+                                '<td>' + plan.conCtaplaEstado + '</td>' +
+                                '<td>' + plan.audUsuarioIngreso + '</td>' +
+                                '<td>' + plan.audFechaIngreso + '</td>' +
+                                '<td>' + plan.audPcIngreso + '</td>' +
+                                '<td>' + plan.audUsuarioModifica + '</td>' +
+                                '<td>' + plan.audFechaModifica + '</td>' +
+                                '<td>' + plan.audPcModifica + '</td></tr>';
+                            // Agrega más celdas según tus necesidades
+                            $('#tablaPlanes tbody').append(fila);
+                        });
+                    } else {
+                        // Mostrar mensaje si no hay datos
+                        var mensaje = '<tr><td colspan="16">No hay datos disponibles</td></tr>';
+                        $('#tablaPlanes tbody').append(mensaje);
+                    }
+                },
+                error: function (error) {
+                    console.error('Error:', error);
+                }
+            });
+        });
+    });
+</script>

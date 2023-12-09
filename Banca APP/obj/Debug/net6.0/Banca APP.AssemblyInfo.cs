@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Banca APP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8e23b69535fddf04b25a06b26ab4273d8735418")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a0568f80d7b8ab6fee25c816e832846dd5a3c19")]
 [assembly: System.Reflection.AssemblyProductAttribute("Banca APP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Banca APP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
