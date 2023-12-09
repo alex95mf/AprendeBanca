@@ -3,6 +3,11 @@ bin/
 obj/
 
 Banca APP/.vs/
+# Ignore FileContentIndex vsidx files
+Banca API/.vs/
+Banca API/.vs/Banca API/FileContentIndex/*.vsidx
+
+
 
 # Carpeta de módulos temporales creados por Visual Studio
 Project_Readme.html
