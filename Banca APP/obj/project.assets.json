@@ -55,19 +55,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\alex9\\.nuget\\packages\\": {}
+    "C:\\Users\\marti\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Archivos Importantes\\Proyecto Tesis Nando y Joel\\AprendeBanca\\Banca APP\\Banca APP.csproj",
+      "projectUniqueName": "C:\\Users\\marti\\OneDrive\\Documents\\Banca\\Banca APP\\Banca APP.csproj",
       "projectName": "Banca APP",
-      "projectPath": "D:\\Archivos Importantes\\Proyecto Tesis Nando y Joel\\AprendeBanca\\Banca APP\\Banca APP.csproj",
-      "packagesPath": "C:\\Users\\alex9\\.nuget\\packages\\",
-      "outputPath": "D:\\Archivos Importantes\\Proyecto Tesis Nando y Joel\\AprendeBanca\\Banca APP\\obj\\",
+      "projectPath": "C:\\Users\\marti\\OneDrive\\Documents\\Banca\\Banca APP\\Banca APP.csproj",
+      "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\marti\\OneDrive\\Documents\\Banca\\Banca APP\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\alex9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\marti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -117,7 +122,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

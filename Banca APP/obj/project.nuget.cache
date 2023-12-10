@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7im3h9aQ/Ef6W/seQmOxMSJk5rF/22tQhZcY9Y4ADBgkfJRZWtaTalDgR1R1sadS5fsQgQkR83AVtr56h2SLAg==",
+  "dgSpecHash": "wzVeHL9yV5pLutLS2OFcpMzGuwJp28QA9yWuED26fIdHgYzv7SIOtxUCbP8nxpcoIQpVIjkZva8+QaEuCeG+Sg==",
   "success": true,
-  "projectFilePath": "D:\\Archivos Importantes\\Proyecto Tesis Nando y Joel\\AprendeBanca\\Banca APP\\Banca APP.csproj",
+  "projectFilePath": "C:\\Users\\marti\\OneDrive\\Documents\\Banca\\Banca APP\\Banca APP.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\alex9\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\marti\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }
