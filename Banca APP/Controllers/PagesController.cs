@@ -4,34 +4,27 @@ using System.Diagnostics;
 
 namespace Banca_APP.Controllers
 {
-    public class AccountController : Controller
+    public class PagesController : Controller
     {
-        private readonly ILogger<AccountController> _logger;
+        private readonly ILogger<PagesController> _logger;
 
-        public AccountController(ILogger<AccountController> logger)
+        public PagesController(ILogger<PagesController> logger)
         {
             _logger = logger;
         }
 
-        public IActionResult Login()
-        {
-            return View();
-        }
-        public IActionResult LoginRegister()
+        public IActionResult PlanCuentas()
         {
             return View();
         }
 
-        [HttpPost]
-        public async Task<IActionResult> Login(LoginViewModel request)
-        {
-            return View("./../Pages/PlanCuentas");
-        }
 
-        public IActionResult Register()
+        public IActionResult Inicio()
         {
             return View();
         }
+
+       
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

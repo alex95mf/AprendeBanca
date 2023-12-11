@@ -1,36 +1,112 @@
 ﻿@page
 @model Banca_APP.Models.PlanCuentasViewModel
+@{
+    Layout = "_PageLayout"; // Especifica el layout secundario
+    ViewBag.Title = "Planes de Cuentas";
+}
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+
+    .table-container {
+        overflow-x: auto;
+        max-width: 80%; /* Esto asegura que la tabla no sobrepase el ancho de la pantalla */
+        margin: 0 auto; /* Centra el contenedor */
+    }
+
+    table {
+        width: 100%; /* La tabla ocupa el 100% del contenedor, pero la barra de desplazamiento horizontal se aplicará al contenedor */
+        border-collapse: collapse;
+    }
+
+    /* Estilos opcionales para las celdas, encabezados, etc. */
+    td, th {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+    }
+
+    th {
+        background-color: #f2f2f2;
+    }
+</style>
 
 <div>
     <h1>Plan de Cuentas</h1>
+    <div class="contenedor-plan">
+       
+        <div class="contenedor-busqueda">
+            <!-- Formulario de búsqueda -->
+            <form class="busqueda" action="guardar.php" method="post">
+                <div class="form-group">
+                    <label for="codigo">Nivel</label>
+                    <input type="text" id="codigo" name="codigo" class="form-control" placeholder="Nivel">
+                </div>
 
-    <button id="btnObtenerPlanes" class="btn btn-primary">Obtener Planes de Cuenta</button>
+                <div class="form-group">
+                    <label for="nombre">Descripción</label>
+                    <input type="text" id="nombre" name="nombre" class="form-control" placeholder="Descripcion">
+                </div>
 
-    <table id="tablaPlanes" class="table table-striped table-bordered">
-        <thead class="thead-dark">
-            <tr>
-                <th>ID</th>
-                <th>GenempId</th>
-                <th>GenanioId</th>
-                <th>ConCtanivId</th>
-                <th>ConCtatipId</th>
-                <th>ConCtaclsId</th>
-                <th>ConCtaplaCuenta</th>
-                <th>ConCtaplaNombre</th>
-                <th>ConCtaplaReqCcSn</th>
-                <th>ConCtaplaEstado</th>
-                <th>AudUsuarioIngreso</th>
-                <th>AudFechaIngreso</th>
-                <th>AudPcIngreso</th>
-                <th>AudUsuarioModifica</th>
-                <th>AudFechaModifica</th>
-                <th>AudPcModifica</th>
-            </tr>
-        </thead>
-        <tbody></tbody>
-    </table>
+                <div class="form-group">
+                    <label for="naturaleza">Cuenta Padre</label>
+                    <input type="text" id="naturaleza" name="naturaleza" class="form-control" placeholder="Cuenta Padre">
+                </div>
+
+                <div class="form-group">
+                    <label for="tipo">Tipo</label>
+                    <select id="tipo" name="tipo" class="form-control">
+                        <option value="">Seleccionar</option>
+                        <option value="activo">Activo</option>
+                        <option value="pasivo">Pasivo</option>
+                    </select>
+                </div>
+            </form>
+            <!-- Formulario de botones -->
+          @*   <form class="botones" action="/guardar" method="post">
+                <button type="submit" class="my-button btn btn-primary">Consultar</button>
+
+                <button type="button" class="btn btn-success my-button">
+                    <i class="fas fa-plus"></i> Agregar Nuevo
+                </button>
+            </form> *@
+            <button id="btnObtenerPlanes" class="btn btn-primary">Obtener Planes de Cuenta</button>
+        </div>
+
+        <div class="table-container">
+            <table id="tablaPlanes" class="table table-striped table-bordered" style="max-width:300px;">
+                <thead class="thead-dark">
+                    <tr>
+                        <th>ID</th>
+                        <th>GenempId</th>
+                        <th>GenanioId</th>
+                        <th>ConCtanivId</th>
+                        <th>ConCtatipId</th>
+                        <th>ConCtaclsId</th>
+                        <th>ConCtaplaCuenta</th>
+                        <th>ConCtaplaNombre</th>
+                        <th>ConCtaplaReqCcSn</th>
+                        <th>ConCtaplaEstado</th>
+                        <th>AudUsuarioIngreso</th>
+                        <th>AudFechaIngreso</th>
+                        <th>AudPcIngreso</th>
+                        <th>AudUsuarioModifica</th>
+                        <th>AudFechaModifica</th>
+                        <th>AudPcModifica</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+            
+    </div>
 </div>
-
 <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
 
 <script>

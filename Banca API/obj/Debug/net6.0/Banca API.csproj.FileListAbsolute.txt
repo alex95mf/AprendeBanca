@@ -119,3 +119,91 @@ D:\Archivos Importantes\Proyecto Tesis Nando y Joel\AprendeBanca\Banca API\obj\D
 D:\Archivos Importantes\Proyecto Tesis Nando y Joel\AprendeBanca\Banca API\obj\Debug\net6.0\Banca API.genruntimeconfig.cache
 D:\Archivos Importantes\Proyecto Tesis Nando y Joel\AprendeBanca\Banca API\obj\Debug\net6.0\ref\Banca API.dll
 D:\Archivos Importantes\Proyecto Tesis Nando y Joel\AprendeBanca\Banca API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\appsettings.json
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\Banca API.exe
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\Banca API.deps.json
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\Banca API.runtimeconfig.json
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\Banca API.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\Banca API.pdb
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\obj\Debug\net6.0\Banca API.csproj.AssemblyReference.cache
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\obj\Debug\net6.0\Banca API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\obj\Debug\net6.0\Banca API.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\obj\Debug\net6.0\Banca API.AssemblyInfo.cs
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\obj\Debug\net6.0\Banca API.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\obj\Debug\net6.0\Banca API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\obj\Debug\net6.0\Banca API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\obj\Debug\net6.0\staticwebassets\msbuild.Banca API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\obj\Debug\net6.0\staticwebassets\msbuild.build.Banca API.props
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Banca API.props
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Banca API.props
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\obj\Debug\net6.0\scopedcss\bundle\Banca API.styles.css
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\obj\Debug\net6.0\Banca API.csproj.CopyComplete
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\obj\Debug\net6.0\Banca API.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\obj\Debug\net6.0\refint\Banca API.dll
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\obj\Debug\net6.0\Banca API.pdb
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\obj\Debug\net6.0\Banca API.genruntimeconfig.cache
+C:\Users\marti\OneDrive\Documents\Banca\Banca API\obj\Debug\net6.0\ref\Banca API.dll

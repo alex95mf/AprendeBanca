@@ -20,8 +20,16 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/marti/OneDrive/Documents/Banca/Banca APP/Views/Account/LoginRegister.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpblJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/marti/OneDrive/Documents/Banca/Banca APP/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/marti/OneDrive/Documents/Banca/Banca APP/Views/Pages/Inicio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcSW5pY2lvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/marti/OneDrive/Documents/Banca/Banca APP/Views/Pages/PlanCuentas.cshtml]
@@ -30,6 +38,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/marti/OneDrive/Documents/Banca/Banca APP/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/marti/OneDrive/Documents/Banca/Banca APP/Views/Shared/_PageLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYWdlTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/marti/OneDrive/Documents/Banca/Banca APP/Views/Shared/_ValidationScriptsPartial.cshtml]
